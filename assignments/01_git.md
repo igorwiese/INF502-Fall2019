@@ -113,7 +113,7 @@ print 'hello world!'
 
 ### Part 2: Using GitHub
 
-The goal of this assignment is to put you in touch with the fork-pullrequest process, with an extra of dealing a little bit with Markdown. To learn more about Markdown [click here](https://guides.github.com/features/mastering-markdown/).
+The goal of this assignment is to put you in touch with the fork-pull request process, with an extra of dealing a little bit with Markdown. To learn more about Markdown [click here](https://guides.github.com/features/mastering-markdown/).
 
 **You must fork this repo and submit a pull request back**
 
